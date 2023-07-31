@@ -1,4 +1,3 @@
-#We are Learning CI/CD
 FROM openjdk:8-jre-alpine
 
 EXPOSE 8080
